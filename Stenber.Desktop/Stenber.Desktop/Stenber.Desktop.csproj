@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DesktopManager.cs" />
+    <Compile Include="Extensions\PublicExtensions.cs" />
     <Compile Include="Interfaces\IDesktopManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -11,5 +11,7 @@ namespace Stenber.Desktop.Interfaces
         bool IsDesktopFormCovered { get; }
 
         void Reset();
+
+        void RefreshDesktop();
     }
 }
