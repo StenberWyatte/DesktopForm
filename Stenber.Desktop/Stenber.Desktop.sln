@@ -5,11 +5,6 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stenber.Desktop", "Stenber.Desktop\Stenber.Desktop.csproj", "{49BC39FD-5DC1-4E01-8E67-BFE18B904AB5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{5A5625FE-3662-4BF4-86BF-6251CA69C2B5}"
-	ProjectSection(SolutionItems) = preProject
-		.paket\paket.exe = .paket\paket.exe
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Stenber.Desktop
 {
-    public class DesktopManager
+    public enum WindowState
     {
-
-
+        Hide = 0,
+        Normal = 1,
+        Minimized = 2,
+        Maximized = 3,
     }
 }
